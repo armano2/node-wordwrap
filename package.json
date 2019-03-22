@@ -8,9 +8,7 @@
   },
   "main": "./index.js",
   "files": [
-    "index.js",
-    "LICENSE",
-    "README.markdown"
+    "index.js"
   ],
   "keywords": [
     "word",
